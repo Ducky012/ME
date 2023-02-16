@@ -1,3 +1,3 @@
 function myum(){
-onclick="document.getElementById('anson').innerHTML = Date()"
+onclick = document.getElementById('anson').innerHTML = "Anson"
 };
